@@ -1,0 +1,7 @@
+{
+  "name": "AI Health Assistant",
+  "description": "An AI-powered voice assistant for real-time conversation about health insights using the Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
